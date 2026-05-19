@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "stations": [
+    { "id": 0, "name": "La Jolla", "location": "La Jolla, CA" }
+  ]
+}
