@@ -3,6 +3,7 @@
   "stations": [
     { "id": 0, "name": "La Jolla",   "location": "La Jolla, CA" },
     { "id": 1, "name": "San Diego",  "location": "San Diego, CA" },
-    { "id": 2, "name": "Long Beach", "location": "Long Beach, CA" }
+    { "id": 2, "name": "Long Beach", "location": "Long Beach, CA" },
+    { "id": 3, "name": "Los Angeles", "location": "Los Angeles, CA" },
   ]
 }
