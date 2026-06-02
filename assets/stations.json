@@ -1,8 +1,7 @@
 {
   "version": 1,
   "stations": [
-    { "id": 0, "noaaId": "9410230", "name": "La Jolla", "location": "La Jolla, CA" }
-    { "id": 1, "noaaId": "9410170", "name": "San Diego",  "location": "San Diego, CA" },
+    { "id": 0, "noaaId": "9410230", "name": "La Jolla", "location": "La Jolla, CA" },
     { "id": 3, "noaaId": "9410660", "name": "Los Angeles", "location": "Los Angeles, CA" }
   ]
 }
