@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "comment": "Harmonic constants for each NOAA tide station. Constituent order (37 total): J1 K1 K2 L2 M1 M2 M3 M4 M6 M8 N2 2N2 O1 OO1 P1 Q1 2Q1 R2 S1 S2 S4 S6 T2 LDA2 MU2 NU2 RHO1 MK3 2MK3 MN4 MS4 2SM2 MF MSF MM SA SSA. Source: https://tidesandcurrents.noaa.gov/harcon.html?id=<noaaId>",
+  "stations": {
+    "9410230": {
+      "name": "La Jolla (Scripps Institution Wharf), CA",
+      "datum": 2.73,
+      "amp":   [0.07, 1.09, 0.19, 0.03, 0.04, 1.64, 0.01, 0.0,  0.0,  0.0,
+                0.38, 0.05, 0.70, 0.03, 0.34, 0.12, 0.02, 0.01, 0.0,  0.67,
+                0.0,  0.0,  0.04, 0.01, 0.06, 0.08, 0.02, 0.0,  0.0,  0.0,
+                0.0,  0.0,  0.0,  0.0,  0.0,  0.26, 0.05],
+      "kappa": [221.0, 207.0, 130.4, 132.0, 221.0, 142.0, 346.8, 0.0, 0.0, 0.0,
+                121.7,  94.2, 191.8, 244.2, 203.1, 184.4, 177.2,  77.4, 0.0, 138.6,
+                0.0,    0.0,  131.9, 141.5,  85.4, 126.5, 180.6,   0.0, 0.0,   0.0,
+                0.0,    0.0,    0.0,   0.0,   0.0, 175.7, 261.0]
+    }
+  }
+}
